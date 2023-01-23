@@ -1,4 +1,17 @@
-# AngularToDo
+Day 1: I started making a new Angular project. Deleted my welcome screen to start with my own project. I began creating a ToDo Form.
+       I ran into no problems.
+
+Day 2: Changed the syling for my ToDo form. ran into an issue with the scss.
+
+Day 3: Ran into no further problems and Finished my project.
+
+
+
+
+
+
+
+AngularToDo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
 
